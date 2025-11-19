@@ -1,0 +1,1 @@
+// no script here just for example, the real script inside the html file
